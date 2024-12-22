@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Railson, but you can call me Rai!
 <div align="left">
   <a href="https://github.com/railson-ferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railson-ferreira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railson-ferreira&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
