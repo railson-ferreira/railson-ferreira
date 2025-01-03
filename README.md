@@ -16,7 +16,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/@railson-ferreira" target="_blank"><img alt="Rai-youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@railson-dev" target="_blank"><img alt="Rai-youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:railson.info@gmail.com"><img alt="Rai-gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/railson-ferreira-a940b1a3" target="_blank"><img alt="Rai-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
